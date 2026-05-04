@@ -3,7 +3,7 @@
 ## Equipo: **Los más 3D** 
 
 Integrantes:
-  - **Martín Alamilla Cesar Adrian**
+  - **Martín Alamilla Cesar Adrian** -  [LinkedIn](https://www.linkedin.com/in/cesar-m-alamilla/) | [Github](https://github.com/CesarMartinAlamilla)
   - **Hernandez Sanchez Yovani Gabriel** - [LinkedIn](https://www.linkedin.com/in/yovanigabrielhernandezsanchez/) | [Github](https://github.com/YovaniHernandez)
   - **Salazar Bastarrachea Gael Francisco** - [LinkedIn](https://www.linkedin.com/in/gael-salazar-bastarrachea/) | [GitHub](https://github.com/Shadowboss1214)
 
