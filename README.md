@@ -125,14 +125,14 @@ futbotmx-vision/
 
 **1. Clonar el repositorio**
 ```bash
-git clone https://github.com/TU_USUARIO/futbotmx-vision.git
+git clone https://github.com/Shadowboss1214/Copa-FutBotMX.git
 cd futbotmx-vision
 ```
 
 **2. Crear entorno virtual**
 ```bash
-conda create -n futbotmx python=3.10
-conda activate futbotmx
+conda create -n supervision python=3.10
+conda activate supervision
 ```
 
 **3. Instalar dependencias**
@@ -214,7 +214,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📱 Reel de Instagram
+## Reel de Instagram
 
 *(Agregar aquí el enlace al reel publicado)*
 
@@ -224,13 +224,13 @@ pip install -r requirements.txt
 
 | Nombre | Rol |
 |---|---|
-| *(Nombre 1)* | Describir rol |
-| *(Nombre 2)* | Describir rol |
-| *(Nombre 3)* | Describir rol |
+| *(Hernandez Sanchez Yovani Gabriel)* | Describir rol |
+| *(Martin Alamilla Cesar Adrian)* | Describir rol |
+| *(Salazar Bastarrachea Gael Francisco)* | Describir rol |
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la **Licencia MIT**. Ver archivo [LICENSE](LICENSE) para más detalles.
 
