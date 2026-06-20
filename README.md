@@ -358,6 +358,7 @@ Este proyecto está licenciado bajo la **Licencia MIT**. Ver archivo [LICENSE](L
 - **ByteTrack** — integrado vía Roboflow Supervision.
 - **OpenPyXL** — Licencia MIT/LGPL.
 - Videos de partidos proporcionados por la **Federación Mexicana de Robótica** a través del repositorio oficial de la Copa FutBotMX.
+- Gemini 3.1 - Google 
 
 ---
 
