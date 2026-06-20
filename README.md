@@ -154,7 +154,7 @@ El pipeline fue diseñado y calibrado para trabajar **exclusivamente con video c
 
 **Insights del análisis:**
 
-Podemos observa que el equipo amarillo sobre la cancha ya tiene más presencia en el área rival incluso manteniendose por un tiempo prolongado en esa zona, en contraste con el equipo azul el cual tiene presencias muy marcadas en zonas muy específicas del campo.
+Con base a las graficas resultantes podemos observar de parte del equipo amarillo tiene un mayor control sobre el área enemiga incluso llegando a mantenerse por un tiempo más prolongado en la susodicha área, en contraste con el equipo azul, estos tienen una presencia muy marcada solo en zonas específicas del campo.
 
 ---
 
