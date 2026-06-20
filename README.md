@@ -111,7 +111,7 @@ Este notebook **no funcionará sin dos archivos externos**, que por su peso no e
 | `cenital_Analisis.mp4` | `VideosEjemplo/cenital_Analisis.mp4` | Video de análisis, vista cenital fija |
 
 **Ambos archivos están disponibles para descarga en esta carpeta de Google Drive:**
-**[Carpeta Drive — Modelo y video](AGREGAR_ENLACE_DRIVE_AQUI)**
+**[Carpeta Drive — Modelo y video](https://drive.google.com/drive/folders/1LjkBYg4E_yi1BCAFKke99IXdQnqPa_Os?usp=sharing)**
 
 Pasos para configurarlos correctamente:
 1. Descarga `yucabot.pt` desde el Drive y colócalo directamente dentro de la carpeta `notebooks/` (al mismo nivel que los archivos `.ipynb`).
@@ -243,7 +243,7 @@ Descarga desde la carpeta de Google Drive y colócalos en las rutas indicadas:
 - `yucabot.pt` → colocar en `notebooks/yucabot.pt`
 - `cenital_Analisis.mp4` → colocar en `VideosEjemplo/cenital_Analisis.mp4`
 
-**[Carpeta Drive — Modelo y video](AGREGAR_ENLACE_DRIVE_AQUI)**
+**[Carpeta Drive — Modelo y video](https://drive.google.com/drive/folders/1LjkBYg4E_yi1BCAFKke99IXdQnqPa_Os?usp=sharing)**
 
 **5. Ejecutar el pipeline**
 
