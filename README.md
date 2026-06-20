@@ -132,8 +132,6 @@ El pipeline fue diseñado y calibrado para trabajar **exclusivamente con video c
 
 ## Resultados del análisis — `cenital_Analisis.mp4`
 
-*(Espacio para documentar el análisis del video procesado)*
-
 **Video procesado:** `cenital_Analisis.mp4`
 
 **Resumen del partido:**
@@ -315,6 +313,22 @@ La estrategia de visión por computadora combinó un enfoque de segmentación av
 * **Tracking con ByteTrack:** Cada objeto detectado recibe un ID persistente a lo largo del video. Para tolerar oclusiones momentáneas (robots superpuestos, fallos puntuales de detección), se ajustó el parámetro `lost_track_buffer` del tracker.
 * **Clasificación inicial:** En el primer frame del video, cada robot es clasificado a un equipo según su posición relativa a la mitad del campo canónico (mitad superior = Equipo 1 / Amarillo, mitad inferior = Equipo 2 / Azul).
 * **Herencia de equipo ante pérdida de tracking:** Si ByteTrack pierde un robot y le asigna un nuevo ID al reaparecer, el sistema busca, dentro de una ventana de tiempo reciente, cuál robot conocido tenía la posición más cercana al punto de reaparición, y le hereda su equipo. Esto evita que un robot cambie de equipo erróneamente al cruzar la mitad de la cancha, comportamiento que sí ocurría con un enfoque de clasificación por posición instantánea.
+
+---
+
+## Videos del proyecto
+
+### Video demo (máximo 2 minutos)
+
+📹 **[Ver video demo](https://youtu.be/607Iu2MZwQE)**
+
+Muestra el resultado del análisis aplicado a un partido de fútbol robótico de la Copa FutBotMX: vista del video original junto al resultado segmentado, indicadores de segmentación/tracking, y explicación del enfoque utilizado.
+
+### Reel de Instagram (mínimo 30 segundos)
+
+**[Ver Reel en Instagram](AGREGAR_ENLACE_AQUI)**
+
+Reel publicado con acceso público mostrando lo más destacado del proyecto.
 
 ---
 
