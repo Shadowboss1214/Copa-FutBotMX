@@ -143,6 +143,7 @@ El pipeline fue diseñado y calibrado para trabajar **exclusivamente con video c
 
 <img width="800" height="600" alt="Captura de pantalla 2026-06-19 231710" src="https://github.com/user-attachments/assets/b090848d-fe66-4daf-a08c-1236e71822ef" />
 
+<img width="320" height="240" alt="Gool" src="https://github.com/user-attachments/assets/5371c9b8-c7ca-4937-8585-67bcd7d946a8" />
 
 
 **Mapa de calor de actividad (heatmap):**
