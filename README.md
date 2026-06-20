@@ -151,7 +151,8 @@ El pipeline fue diseñado y calibrado para trabajar **exclusivamente con video c
 
 **Mapa de trayectorias (trails):**
 
-*(Agregar imagen `trails_final.png`)*
+<img width="300" height="600" alt="trails_final" src="https://github.com/user-attachments/assets/df0710b8-043c-4bd1-8a3b-901d18e59159" />
+
 
 **Insights del análisis:**
 
