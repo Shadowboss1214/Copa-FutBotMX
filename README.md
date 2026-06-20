@@ -141,7 +141,8 @@ El pipeline fue diseñado y calibrado para trabajar **exclusivamente con video c
 
 **Capturas / GIFs del video anotado:**
 
-*(Agregar aquí capturas del video con segmentación SAM, cajas de equipo y marcador)*
+<img width="800" height="400" alt="Captura de pantalla 2026-06-19 231450" src="https://github.com/user-attachments/assets/e2859e57-4bf9-400a-aded-903a1381116e" />
+
 
 **Mapa de calor de actividad (heatmap):**
 
