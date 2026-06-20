@@ -156,7 +156,7 @@ El pipeline fue diseñado y calibrado para trabajar **exclusivamente con video c
 
 **Insights del análisis:**
 
-*(Agregar observaciones: equipo con mayor posesión/actividad, zonas de mayor concentración de juego, etc., basadas en `tracking_data.xlsx`)*
+Podemos observa que el equipo amarillo sobre la cancha ya tiene más presencia en el área rival incluso manteniendose por un tiempo prolongado en esa zona, en contraste con el equipo azul el cual tiene presencias muy marcadas en zonas muy específicas del campo.
 
 ---
 
