@@ -338,9 +338,11 @@ Reel publicado con acceso público mostrando lo más destacado del proyecto.
 
 | Nombre | Rol |
 |---|---|
-| *(Hernandez Sanchez Yovani Gabriel)* | Describir rol |
-| *(Martin Alamilla Cesar Adrian)* | Describir rol |
-| *(Salazar Bastarrachea Gael Francisco)* | Describir rol |
+| *(Hernandez Sanchez Yovani Gabriel)* | Tracking de video y editor |
+| *(Martin Alamilla Cesar Adrian)* | Procesamiento y etiquetado de datos |
+| *(Salazar Bastarrachea Gael Francisco)* | Lidel de inteligencia artificial e integración |
+
+
 
 ---
 
