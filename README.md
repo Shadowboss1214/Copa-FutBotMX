@@ -137,9 +137,9 @@ El pipeline fue diseñado y calibrado para trabajar **exclusivamente con video c
 **Video procesado:** `cenital_Analisis.mp4`
 
 **Resumen del partido:**
-- Marcador final: Equipo 1 (Amarillo) **_** — **_** Equipo 2 (Azul)
-- Duración analizada: *(agregar)*
-- Robots detectados: *(agregar)*
+- Marcador final: Equipo 1 (Amarillo) 1 — 0 Equipo 2 (Azul)
+- Duración analizada: 3:01
+- Robots detectados: 4
 
 **Capturas / GIFs del video anotado:**
 
