@@ -326,7 +326,7 @@ Muestra el resultado del análisis aplicado a un partido de fútbol robótico de
 
 ### Reel de Instagram (mínimo 30 segundos)
 
-**[Ver Reel en Instagram](AGREGAR_ENLACE_AQUI)**
+**[Ver Reel en Instagram](https://www.instagram.com/reel/DZy5f7cNaqr/?igsh=amJvZnBlZ3lic2N5)**
 
 Reel publicado con acceso público mostrando lo más destacado del proyecto.
 
