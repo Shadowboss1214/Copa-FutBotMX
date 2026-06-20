@@ -320,7 +320,7 @@ La estrategia de visión por computadora combinó un enfoque de segmentación av
 
 ### Video demo (máximo 2 minutos)
 
-📹 **[Ver video demo](https://youtu.be/607Iu2MZwQE)**
+**[Ver video demo](https://youtu.be/607Iu2MZwQE)**
 
 Muestra el resultado del análisis aplicado a un partido de fútbol robótico de la Copa FutBotMX: vista del video original junto al resultado segmentado, indicadores de segmentación/tracking, y explicación del enfoque utilizado.
 
