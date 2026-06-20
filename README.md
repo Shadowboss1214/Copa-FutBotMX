@@ -147,7 +147,8 @@ El pipeline fue diseñado y calibrado para trabajar **exclusivamente con video c
 
 **Mapa de calor de actividad (heatmap):**
 
-*(Agregar imagen `heatmap_final.png`)*
+*(Agregar imagen `heatmap_final.png`)*<img width="583" height="955" alt="heatmap_final png" src="https://github.com/user-attachments/assets/e7ac0632-6351-4418-b376-11102f7166b9" />
+
 
 **Mapa de trayectorias (trails):**
 
